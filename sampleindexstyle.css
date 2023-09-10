@@ -1,0 +1,54 @@
+@charset "utf-8";
+            body{background-color: #2F2E2E}
+            header{
+                padding:20px 10px 5px 5px;
+                background-color: coral;
+                margin-right: 0px;
+                height: 80px}
+            a{text-decoration: none;}
+            a:hover{color: RED;}
+            heading2{
+                padding:12px 45px 1.5px 5px;
+                background-color: #FFF000;
+                border: dimgrey dotted 5px solid ;
+                height: 190px}
+            content{
+                border-bottom: thick;
+                float:left;
+                padding:20px 35px 0px 3px;
+                background-color: rgb(84, 121, 107);
+                width:45%;
+                height: 385px;}
+            content2{
+                border-bottom: thick;
+                float: right; 
+                padding:20px 35px 3px 0px;
+                background-color: rgba(8,16,53,1.00);
+                width: 50%;
+                height: 382px}
+            
+            footer{text-align: center;
+                      color: #00000;
+                    margin-top : 405px; 
+                    padding : 5px 10px 10px 10px;
+                    background-color : #A5FF7D;
+                    height : 340px}
+   /*Starting Of NAvigation panal Design*/
+   ul {
+    padding: 0px 0 0.7px 0;
+    margin-top: -30px;   
+    list-style-type: none;
+      overflow: hidden;
+      background-color: rgba(0,0,0,0.00);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      padding: 0px 10px 0px 0px;
+    }
+    */This is the NAvigation Setup*/
+   
