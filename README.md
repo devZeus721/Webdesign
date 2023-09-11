@@ -1,10 +1,12 @@
 # Webdesign
 <h1><u>Web Designing platfrom</u></h1>
-<div align="center">
+<div align="center";
+        text-color="cyan">
+<h2>
 <br>
-&nbsp;&nbsp;&nbsp;1)HTML 5
+1)HTML 5
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2)CSS 3
+2)CSS 3
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3)Javascript
-</div>
+3)Javascript
+</h2></div>
