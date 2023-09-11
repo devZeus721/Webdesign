@@ -4,7 +4,7 @@
 <div align="center">  
 <h2>
 
-$ \mathbb{ \color{cyan}{1) \ HTML 5 }}$
+$\mathbb{ \color{cyan}{1) \ HTML 5 }}$
 <br>
 
 $\mathbb{\color{olive}{ 2) \ CSS}}$
