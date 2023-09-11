@@ -1,5 +1,5 @@
 # Webdesign
-*//Coloring is also available//*
+//Coloring is also available//
 <h1><u>Web Designing platfrom</u></h1>
 <div align="center">  
 <h2>
