@@ -3,6 +3,6 @@
 <br>
 &nbsp;&nbsp;&nbsp;1)HTML 5
 <br>
-2)CSS 3
-  <br>
-  3)Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2)CSS 3
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3)Javascript
