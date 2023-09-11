@@ -4,9 +4,8 @@
 <h2>
 <font color="cyan">
 $${\color{lightgreen}1)HTML 5}$$
-2)CSS 3
-<br>
-3)Javascript
-</h2>
+$${\color{lightblue}2)CSS \space 3}$$
+    $\mathbb{ \color{cyan}{3 \ ) \ Javascript }}$
+
 </font>
 </div>
