@@ -4,12 +4,12 @@
 <div align="center">  
 <h2>
 
-$ \mathbb{ \color{cyan}{\large 1) \ HTML 5 }}$
+$ \mathbb{ \color{cyan}{1) \ HTML 5 }}$
 <br>
 
-$\mathbb{\color{olive}{\large 2) \ CSS}}$
+$\mathbb{\color{olive}{ 2) \ CSS}}$
 <br>
 
-$\mathbb{ \color{orange}{\large 3) \ Javascript }}$
+$\mathbb{ \color{orange}{3) \ Javascript }}$
 </h2>
 </div>
