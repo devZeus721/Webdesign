@@ -26,7 +26,6 @@
                 background-color: rgba(8,16,53,1.00);
                 width: 50%;
                 height: 382px}
-            
             footer{text-align: center;
                       color: #00000;
                     margin-top : 405px; 
@@ -41,11 +40,9 @@
       overflow: hidden;
       background-color: rgba(0,0,0,0.00);
     }
-    
     li {
       float: left;
     }
-    
     li a {
       display: block;
       padding: 0px 10px 0px 0px;
