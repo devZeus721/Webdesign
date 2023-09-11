@@ -1,5 +1,5 @@
 @charset "utf-8";
-            body{background-color: #2F2E2E}
+            html,body{background-color: #2F2E2E}
             header{
                 padding:20px 10px 5px 5px;
                 background-color: coral;
