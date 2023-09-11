@@ -1,1 +1,2 @@
-document.write("THis is trail JS file just beginning with js");
+let a1 = JAVASCRIPT;
+    
