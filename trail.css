@@ -3,8 +3,8 @@ html,body{
 }
 div{
     background-color: yellowgreen;
-    height: 220px;
-    width: 380px;
+    height: 320px;
+    width: 680px;
 }
 h1{
     font-size: 45px;
@@ -12,6 +12,16 @@ h1{
     background: url("https://img.freepik.com/free-vector/blank-blue-halftone-background_53876-114466.jpg?w=1380&t=st=1694434733~exp=1694435333~hmac=2e43a42f213e59917bf0a65c64cff7ddcb3f325002261244fab92689e65ba96d");
     background-position: center;
     background-size: 1000px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+p{
+    font-size: small;
+    font-weight: bolder;
+    background: url("https://img.freepik.com/free-vector/dark-wavy-colors-background_23-2148403785.jpg?w=1380&t=st=1694434976~exp=1694435576~hmac=e429a5f8d62ec373a3df40a2023c17556322e6f4ecacf19fbbb1b78f61cccdff");
+background-size: 50%;
+    background-position: center;
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
