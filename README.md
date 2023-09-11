@@ -4,7 +4,7 @@
     
 <h2>
 <font color="cyan">
-$${\color{blue}1)HTML 5}$$
+$${\color{lightgreen}1)HTML 5}$$
 <br>
 2)CSS 3
 <br>
