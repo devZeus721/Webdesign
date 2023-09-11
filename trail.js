@@ -1,2 +1,1 @@
-let a1 = JAVASCRIPT;
-    console.log(a1);
+alert("U have entered JS");
