@@ -1,7 +1,10 @@
 html,body{
+    color: aliceblue;
+}
+div{
     background-color: yellowgreen;
-    height: 200px;
-    width: 100px;
+    height: 320px;
+    width: 320px;
 }
 h1{
     font-size: 45px;
