@@ -17,10 +17,12 @@ h1{
     color: transparent;
 }
 p{
-    font-size: small;
+    font-size: 52px;
+    font-family:sans-serif;
     font-weight: bolder;
+    text-align: right;
     background: url("https://img.freepik.com/free-vector/dark-wavy-colors-background_23-2148403785.jpg?w=1380&t=st=1694434976~exp=1694435576~hmac=e429a5f8d62ec373a3df40a2023c17556322e6f4ecacf19fbbb1b78f61cccdff");
-background-size: 50%;
+    background-size: 50%;
     background-position: center;
     -webkit-background-clip: text;
     background-clip: text;
