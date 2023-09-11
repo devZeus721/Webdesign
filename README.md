@@ -1,5 +1,5 @@
 # Webdesign
-<h1><u>Web Designing platfrom</u><h1>
+<h1><u>Web Designing platfrom</u></h1>
 <h2>
 <p>
 <br>
