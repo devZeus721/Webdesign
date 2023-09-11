@@ -1,0 +1,1 @@
+document.write("THis is trail JS file just beginning with js");
