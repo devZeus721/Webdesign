@@ -4,8 +4,10 @@ html,body{
 }
 
 p{
+    font-size: 80px;
     text-align: center;
     background: url("https://wallpaperaccess.com/full/4415928.jpg");
     -webkit-background-clip: text;
     background-clip: text;
+    color: transparent;
 }
