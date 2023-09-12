@@ -1,11 +1,11 @@
 @charset "utf-8";
             html,body{background-color: #2F2E2E}
-            div,header{
+            .header{
                 padding:20px 10px 5px 5px;
                 background-color: coral;
                 margin-right: 0px;
                 height: 80px}
-            div,h1{text-align: center;
+            h1{text-align: center;
                 padding: 0px 0px 5px 0px;
                 font: bolder;
                 font-family: sans-serif; 
@@ -14,19 +14,19 @@
                  text-shadow: 2.5px .2px 5px  #000000}
             a{text-decoration: none}
             a:hover{color: RED;}
-            heading2{
+            .heading2{
                 padding:12px 45px 1.5px 5px;
                 background-color: #FFF000;
                 border: dimgrey dotted 5px solid ;
                 height: 190px}
-            content{
+            .content{
                 border-bottom: thick;
                 float:left;
                 padding:20px 35px 0px 3px;
                 background-color: rgb(84, 121, 107);
                 width:45%;
                 height: 385px;}
-            content2{
+            .content2{
                 border-bottom: thick;
                 float: right; 
                 padding:20px 35px 3px 0px;
