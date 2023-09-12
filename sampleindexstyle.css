@@ -5,7 +5,14 @@
                 background-color: coral;
                 margin-right: 0px;
                 height: 80px}
-            a{text-decoration: none;}
+            h1{text-align: center;
+                padding: 0px 0px 5px 0px;
+                font: bolder;
+                font-family: sans-serif; 
+                 color: white;
+                 font-size: 46px;
+                 text-shadow: 2.5px .2px 5px  #000000}
+            a{text-decoration: none}
             a:hover{color: RED;}
             heading2{
                 padding:12px 45px 1.5px 5px;
