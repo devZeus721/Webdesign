@@ -20,8 +20,9 @@ showcase{
             title{
                 width:100%
                 height:100%;
-                background-color:#000 ;
+                background-color:black;
                 font-size: 700px;
+                color:white;
                 mix-bend-mode:multiply ;           
         }
 
