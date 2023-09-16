@@ -18,11 +18,11 @@ showcase{
     }
 
             title{
-                width:100%
+                width:100%;
                 height:100%;
                 background-color:black;
-                font-size: 700px;
+                font-size: 100px;
                 color:white;
-                mix-bend-mode:multiply ;           
+                mix-blend-mode:multiply ;           
         }
 
